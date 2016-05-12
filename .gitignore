@@ -6,7 +6,8 @@
 target/
 lib_managed/
 src_managed/
-project/boot/
+project/.boot/
+project/.ivy
 .history
 .cache
 
